@@ -1,6 +1,7 @@
 # Pacman-Test-Dahlan
 Test Pacman Research Scientist
-Library menggunakan library JCOPML 
+Library menggunakan library JCOPML dan Benchmark https://gist.github.com/fazaghifari/5c16db847c9217b2a603733055ec7eb5 
+Code from Scracth Numpy in python_test.dahlan.py
 # Supervised Learning by J.COp
 Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mempelajari teknik-teknik supervised learning menggunakan scikit-learn dan jcopml.
 
